@@ -1,0 +1,22 @@
+.panelwhole{
+    width: 100%;
+}
+.box{
+  
+    float: left;
+    width: 33.33%;              
+}
+
+html{
+    padding: 0px;
+}
+
+h1{
+ /* Margin is top, right, bottom,left */
+    margin: 0px 0px 15px 0px; 
+}
+
+#contact-info{
+    position: relative;
+    bottom: 0px;
+}
